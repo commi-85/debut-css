@@ -1,0 +1,94 @@
+header {
+    display: contents;
+    border-radius: 30px color red;
+    background: rgba(0, 255, 255, 0.09);
+    text-align: center;
+    text-shadow: 3px 3px 5px black;
+    font-style: italic;
+    margin: 10px color black;
+}
+
+nav {
+    height: 300px;
+    background-image: url("image/fond\ header1.jpg")
+}
+
+.maphoto {
+    margin-left: 5px;
+    border-image: round;
+}
+
+body {
+    display: inline-block;
+    border: 4px solid blue;
+    background-color: rgb(73, 170, 170);
+}
+
+.formulaire {
+    height: 200px;
+    width: 500px;
+    display: inline-block;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 15px;
+    container: 100%;
+    align-content: normal;
+    text-align: justify;
+}
+
+h3 {
+    text-decoration: underline;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+}
+
+.form1 {
+    display: flex;
+    margin: 20px;
+    container: 100%;
+}
+
+.form2 {
+    display: flex;
+    margin: 20px;
+    container: 80%;
+}
+
+.form3 {
+    display: flex;
+    width: 100%;
+    height: 150%;
+    margin: 20px;
+    container: 100%;
+}
+
+.imput1 {
+    border: 2px solid orange;
+    width: 35%;
+    height: 70%;
+}
+
+.imput2 {
+    border: 2px solid orange;
+    width: 35%;
+    height: 90%;
+}
+
+.imput3 {
+    border: 2px solid orange;
+    width: 25%;
+    height: 30%;
+}
+
+.imput4 {
+    border: 2px solid orange;
+    width: 25%;
+    height: 90%;
+}
+
+.imput5 {
+    border: 2px solid orange;
+    width: 85%;
+    height: 200%;
+}
